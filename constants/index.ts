@@ -70,7 +70,7 @@ export const NAV_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'amine.gynk@gmail.com' },
+      { label: 'Email Officer', value: 'trip.trekk@gmail.com' },
     ],
   };
   
